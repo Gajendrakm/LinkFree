@@ -1,45 +1,45 @@
-## [0.25.4](https://github.com/EddieHubCommunity/LinkFree/compare/v0.25.3...v0.25.4) (2021-10-01)
+## [2.104.3](https://github.com/EddieHubCommunity/BioDrop/compare/v2.104.2...v2.104.3) (2024-07-01)
 
 
 ### Bug Fixes
 
-* praveenscience ([#329](https://github.com/EddieHubCommunity/LinkFree/issues/329)) ([0190559](https://github.com/EddieHubCommunity/LinkFree/commit/0190559b047a334ac93bc56c9b613b203d5496ec))
+* delete deploy on main ([2ffd3f4](https://github.com/EddieHubCommunity/BioDrop/commit/2ffd3f4ca8eecc511817812d932979532502fdfd))
 
 
 
-## [0.25.3](https://github.com/EddieHubCommunity/LinkFree/compare/v0.25.2...v0.25.3) (2021-10-01)
-
-
-### Bug Fixes
-
-* typo in issue template ([#381](https://github.com/EddieHubCommunity/LinkFree/issues/381)) ([c7f3032](https://github.com/EddieHubCommunity/LinkFree/commit/c7f3032dd5bf5338bd0b4172ed61e641bcdce73b))
-
-
-
-## [0.25.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.25.1...v0.25.2) (2021-10-01)
+## [2.104.2](https://github.com/EddieHubCommunity/BioDrop/compare/v2.104.1...v2.104.2) (2024-06-30)
 
 
 ### Bug Fixes
 
-* milestone for yashverma.json  ([#370](https://github.com/EddieHubCommunity/LinkFree/issues/370)) ([b51da81](https://github.com/EddieHubCommunity/LinkFree/commit/b51da8170bdf3ae150b7fbf2e2adba4a6693e766))
+* docker secrets ([be0e7bb](https://github.com/EddieHubCommunity/BioDrop/commit/be0e7bb430f95e0693cd290a332a244c273b3eee))
 
 
 
-## [0.25.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.25.0...v0.25.1) (2021-10-01)
+## [2.104.1](https://github.com/EddieHubCommunity/BioDrop/compare/v2.104.0...v2.104.1) (2024-06-30)
 
 
 ### Bug Fixes
 
-* sulthan ([#385](https://github.com/EddieHubCommunity/LinkFree/issues/385)) ([c0a8031](https://github.com/EddieHubCommunity/LinkFree/commit/c0a80314ce245756ce3de03f955ad05953e5aa6b))
+* delete release branch ([3d3aa86](https://github.com/EddieHubCommunity/BioDrop/commit/3d3aa867880d9fcb0c72756ff51c1b66d176fdea))
 
 
 
-# [0.25.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.24.3...v0.25.0) (2021-10-01)
+# [2.104.0](https://github.com/EddieHubCommunity/BioDrop/compare/v2.103.1...v2.104.0) (2024-06-30)
 
 
 ### Features
 
-* cucumber + cypress testing ([#226](https://github.com/EddieHubCommunity/LinkFree/issues/226)) ([88a9ab2](https://github.com/EddieHubCommunity/LinkFree/commit/88a9ab23bb6abb95493029f0908008455d8ab87d)), closes [#380](https://github.com/EddieHubCommunity/LinkFree/issues/380)
+* caprover ([#10389](https://github.com/EddieHubCommunity/BioDrop/issues/10389)) ([e57c681](https://github.com/EddieHubCommunity/BioDrop/commit/e57c681fc966dbd96c8ed0b37d522b8093d014e1))
+
+
+
+## [2.103.1](https://github.com/EddieHubCommunity/BioDrop/compare/v2.103.0...v2.103.1) (2024-06-10)
+
+
+### Bug Fixes
+
+* add repo button in manage repo page  ([#10385](https://github.com/EddieHubCommunity/BioDrop/issues/10385)) ([f548044](https://github.com/EddieHubCommunity/BioDrop/commit/f548044560a271279c1661645aec7246ca41ec0e))
 
 
 
